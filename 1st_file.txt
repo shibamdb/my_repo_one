@@ -1,3 +1,7 @@
+<<<<<<< Updated upstream
 I have a dog. I have a cat. I have a direwolf.
 
 
+=======
+I have a dog. I have a cat. I have a direwolf and a dragon.
+>>>>>>> Stashed changes
